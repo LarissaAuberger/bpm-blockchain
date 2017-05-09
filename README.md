@@ -4,4 +4,4 @@ Business process management streamlines business processes within an organizatio
 
 Have you ever considered combining these approaches to get to the next level of integration and automation of business processes?  
 
-This example shows how to do that.  If shows how to discover external blockchain services, implement service flows and a business process. As a result, you can finally work with blockchain assets in your business processes.
+This example shows how to do that.  If shows how to discover external blockchain services, implement service flows and a business process using IBM Business Process Management. As a result, a business user can finally work with blockchain assets in your business processes.
